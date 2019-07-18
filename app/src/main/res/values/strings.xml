@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Hydrological Data Management</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="model_names">
+        <item>MRI CGCM</item>
+        <item>CCSM</item>
+        <item>BCC CSM</item>
+    </string-array>
+    <string-array name="temperature_units">
+        <item>fahrenheit</item>
+        <item>celsius</item>
+    </string-array>
+</resources>
