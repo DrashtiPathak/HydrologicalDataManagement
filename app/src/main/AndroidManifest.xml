@@ -20,7 +20,7 @@
         <!-- The below Android API key which I generated from google site will enable us to launch Google Maps in our app-->
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyDqlAaFYOVtEh_6QcUEYnC7cYZJQBjGqQY"/>
+            android:value="YOUR_API_KEY"/>
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
