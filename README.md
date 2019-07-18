@@ -1,3 +1,3 @@
-"# HydrologicalDataManagement" 
-# HydrologicalDataManagement
-# HydrologicalDataManagement
+- Please downnload the app by loading the git repository in your desktop.
+- Open the project with Android Studio.
+- Make sure you generate the right Google API key and update it in your Android Manifest.
